@@ -1,24 +1,41 @@
 # Snorox Pulse
- 
-Ein schlanker Bildschirmzeit-Tracker fuer Windows 11. Laeuft im
-System-Tray, zaehlt nur mit welches Programm im Vordergrund ist und wie
-lange alles lokal.
 
-> Aktuell im Early Access. Bugs moeglich, Feedback ueber Issues
-> willkommen.
- 
-## Features
-- Bildschirmzeit-Tracking, Tages-/Wochenansicht, eigene Ziele
-- Fokus-Modus mit Pausenerinnerung
-- Gaming-Tab mit automatischer Spielerkennung und Mini-HUD
-- Erfolge und Wochen-Quests
-- Verschluesselter Passwort-Tresor
-- Windows-Defender-Oberflaeche
-- System-Werkzeuge (RAM/DNS leeren, Fokus-Dimmer, Backup, u.a.)
- 
-## Installation
-Snorox Pulse_5.37.0_x64-setup.exe
-ausfuehren. Windows 11 oder neuer wird vorausgesetzt.
- 
-## Datenschutz
-Alle Daten bleiben lokal auf deinem Rechner. Details in hinweise in der app
+Snorox Pulse ist ein schlanker Tracker für die Bildschirmzeit unter Windows.
+Das Programm läuft im Hintergrund im System-Tray und erfasst lediglich,
+welche Anwendung gerade im Vordergrund aktiv ist und wie lange ohne
+Fnstertitel, Screenshots oder die Aufzeichnung von Tastatureingaben.
+Alle Daten verbleiben auf Ihrem Computer; es kommen keine Benutzerkonten,
+Cloud-Dienste oder Server zum Einsatz.
+
+> Dies ist eine Early-Access Version. Die App ist voll funktionsfähig, kann
+> jedoch noch Fehler enthalten; zudem werden laufend neue Funktionen
+> hinzugefügt. Feedback und Fehlerberichte über den Bereich „Issues“
+> sind herzlich willkommen.
+
+Aktuelle Funktionen:
+
+Erfassung der Bildschirmzeit mit Tages- und Wochenansichten sowie individuellen Zielen
+Fokus-Modus mit Pausenerinnerungen
+Gaming-Tab: automatische Erkennung bekannter Spiele; Erfassung von Spielsitzungen
+und „Tilt“-Leveln; optionales Mini-HUD für CPU-/GPU-Auslastung
+Erfolge (Achievements) und wöchentliche Aufgaben (Quests)
+Passwort-Tresor: verschlüsselt mit einem Master-Passwort und rein lokal gespeichert
+Windows-Defender-Schnittstelle (Statusprüfung, manueller Start eines Scans)
+System-Tools: RAM leeren, DNS-Cache leeren, Fokus-Dimmer,
+Dateisortierung, Live-Backup, Datei-Friedhof, Laptop- & Akku-Infos
+Vollständig anpassbar über „Erscheinungsbild anpassen“: Farben, Kontrast, Größe
+und Animationen
+Systemvoraussetzungen: Windows 11 oder neuer. Windows 10 wird nicht unterstützt.
+
+Wichtiger Hinweis zur Installation: Die App ist noch nicht mit einem
+Code-Signing-Zertifikat signiert. Daher zeigt Windows SmartScreen beim
+ersten Start wahrscheinlich eine Warnung an („Windows hat den Start
+dieser App verhindert“). Sie können dies umgehen, indem Sie auf
+„Weitere Informationen“ -> „Trotzdem ausführen“ klicken. Dies ändert sich,
+sobald ein Zertifikat vorliegt. Zusammenfassung zum Datenschutz: Es werden
+nur der Programmname und die Dauer erfasst; keine dieser Daten verlassen
+Ihren Computer, es sei denn, Sie lösen selbst eine Aktion aus
+(Geschwindigkeitstest, Update-Prüfung, DNS-Test). Ausführliche Informationen
+finden Sie in den Hinweisen des Programms.
+
+Danke, dass Sie sich Pulse ansehen!
