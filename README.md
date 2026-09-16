@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="74c2bda6-95ef-400a-ae47-4d3dfb8d3561" src="https://github.com/user-attachments/assets/0e993816-3135-4946-9e28-8e689c385f1a" />
+
 # Snorox Pulse
 
 Snorox Pulse ist ein schlanker Tracker für die Bildschirmzeit unter Windows.
