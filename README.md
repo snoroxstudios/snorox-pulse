@@ -1,3 +1,4 @@
+<img width="512" height="512" alt="74c2bda6-95ef-400a-ae47-4d3dfb8d3561" src="https://github.com/user-attachments/assets/0e993816-3135-4946-9e28-8e689c385f1a" />
 # Snorox Pulse
 
 Snorox Pulse ist ein schlanker Tracker für die Bildschirmzeit unter Windows.
@@ -39,3 +40,7 @@ Ihren Computer, es sei denn, Sie lösen selbst eine Aktion aus
 finden Sie in den Hinweisen des Programms.
 
 Danke, dass Sie sich Pulse ansehen!
+
+<img width="960" height="540" alt="Modern AI Tools YouTube Thumbnail" src="https://github.com/user-attachments/assets/0efe3dbe-ce0a-493e-82a5-c2c0f51d7a39" />
+<img width="960" height="540" alt="Modern AI Tools YouTube Thumbnail (1)" src="https://github.com/user-attachments/assets/b96561df-6548-4cbb-b03a-663823091941" />
+
