@@ -28,7 +28,7 @@ Vollständig anpassbar über „Erscheinungsbild anpassen“: Farben, Kontrast, 
 und Animationen
 Systemvoraussetzungen: Windows 11 oder neuer. Windows 10 wird nicht unterstützt.
 
-> [!CAUTION]
+> [!WHICHTIG]
 > **WICHTIGER HINWEIS ZUR INSTALLATION:**
 > Die App ist noch nicht mit einem Code-Signing-Zertifikat signiert. Daher zeigt Windows SmartScreen beim ersten Start wahrscheinlich eine Warnung an („Windows hat den Start dieser App verhindert“). Sie können dies umgehen, indem Sie auf „Weitere Informationen“ -> „Trotzdem ausführen“ klicken. Dies ändert sich, sobald ein Zertifikat vorliegt.
  Zusammenfassung zum Datenschutz: Es werden
