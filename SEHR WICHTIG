@@ -1,0 +1,7 @@
+> [!CAUTION]
+> **WICHTIGER HINWEIS ZUR INSTALLATION:**
+> Die App ist noch nicht mit einem Code-Signing-Zertifikat signiert. Daher zeigt Windows SmartScreen beim ersten Start eine Warnung an („Windows hat den Start dieser App verhindert“). Sie können dies umgehen, indem Sie auf **„Weitere Informationen“ -> „Trotzdem ausführen“** klicken. Dies ändert sich, sobald ein Zertifikat vorliegt.
+> 
+> **WICHTIG:** In einigen Fällen blockiert Windows SmartScreen die Datei komplett, ohne dass die Option „Trotzdem ausführen“ sichtbar ist. Falls dies passiert, müssen Sie Windows SmartScreen in den Windows-Sicherheitseinstellungen kurzzeitig deaktivieren (unter *App- und Browsersteuerung* -> *Basiert auf Zuverlässigkeit*), die App starten und können den Schutz danach direkt wieder aktivieren.
+>
+> **Zusammenfassung zum Datenschutz:** Es werden nur der Programmname und die Dauer erfasst; keine dieser Daten verlassen Ihren Computer, es sei denn, Sie lösen selbst eine Aktion aus (Geschwindigkeitstest, Update-Prüfung, DNS-Test). Ausführliche Informationen finden Sie in den Hinweisen des Programms.
