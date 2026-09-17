@@ -4,7 +4,7 @@
 Snorox Pulse ist ein schlanker Tracker für die Bildschirmzeit unter Windows.
 Das Programm läuft im Hintergrund im System-Tray und erfasst lediglich,
 welche Anwendung gerade im Vordergrund aktiv ist und wie lange ohne
-Fnstertitel, Screenshots oder die Aufzeichnung von Tastatureingaben.
+Fenstertitel, Screenshots oder die Aufzeichnung von Tastatureingaben.
 Alle Daten verbleiben auf Ihrem Computer; es kommen keine Benutzerkonten,
 Cloud-Dienste oder Server zum Einsatz.
 
