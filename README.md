@@ -42,3 +42,9 @@ Danke, dass Sie sich Pulse ansehen!
 <img width="960" height="540" alt="Modern AI Tools YouTube Thumbnail" src="https://github.com/user-attachments/assets/0efe3dbe-ce0a-493e-82a5-c2c0f51d7a39" />
 <img width="960" height="540" alt="Modern AI Tools YouTube Thumbnail (1)" src="https://github.com/user-attachments/assets/b96561df-6548-4cbb-b03a-663823091941" />
 
+### 🛡️ Code Signing Information
+To ensure the authenticity and safety of our software, the installation packages will be digitally signed. 
+We are proud to announce that this project will use the **[SignPath Foundation](https://signpath.org)** for free code signing of open-source software. 
+
+Thanks to SignPath, you can install **Snorox Pulse** safely without "Unknown Publisher" warnings.
+
