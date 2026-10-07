@@ -1,0 +1,7 @@
+> [!CAUTION]
+> **IMPORTANT INSTALLATION NOTE:**
+> The app is not yet signed with a code-signing certificate. Consequently, Windows SmartScreen displays a warning upon the first launch ("Windows prevented this app from starting"). You can bypass this by clicking **"More info" -> "Run anyway"**. This will change once a certificate is obtained.
+>
+> **IMPORTANT:** In some cases, Windows SmartScreen may block the file entirely without displaying the "Run anyway" option. If this happens, you must temporarily disable Windows SmartScreen in the Windows Security settings (under *App & browser control* -> *Reputation-based protection*), launch the app, and then immediately re-enable protection.
+>
+> **Privacy Summary:** Only the program name and duration are recorded; none of this data leaves your computer unless you manually trigger an action (speed test, update check, DNS test). Detailed information can be found in the program's documentation.
