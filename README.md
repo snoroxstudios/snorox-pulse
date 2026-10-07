@@ -4,6 +4,7 @@ Snorox Pulse is an all-in-one tool for Windows 11.
 Including 6 Languages (ENG, GER, CH-TW, CH-CN, JAP, KOR)
 
 Download the Launcher here: **https://github.com/snoroxstudios/snorox-pulse-Launcher/releases/tag/1.0.0fix**
+
 OR Download the newest app release directly from here: **https://github.com/snoroxstudios/snorox-pulse/releases/latest**
 
 Current features:
